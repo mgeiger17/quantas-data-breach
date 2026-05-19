@@ -735,10 +735,11 @@ layout: default
 
 **Incident Reports & News**
 - Qantas Official Statement: [qantasnewsroom.com.au](https://www.qantasnewsroom.com.au/media-releases/qantas-cyber-incident)
-    - Update Statement: [quantasnewsroom.com.au](https://www.qantasnewsroom.com.au/media-releases/update-on-qantas-cyber-incident-wednesday-9-july-2025)
+    - Update Statement: [Detailed Informations](https://www.qantasnewsroom.com.au/media-releases/update-on-qantas-cyber-incident-wednesday-9-july-2025)
 - CM Alliance Analysis: [Qantas Data Breach - Scattered Spider](https://www.cm-alliance.com/cybersecurity-blog/qantas-data-breach-scattered-spider-takes-to-the-skies)
 - Cybersecurity News: [Qantas Airlines Cyberattack](https://cybersecuritynews.com/qantas-airlines-cyberattack/)
 - Australian Cyber Security Magazine: [Stolen Records on Dark Web](https://australiancybersecuritymagazine.com.au/stolen-qantas-customer-records-surface-on-dark-web/)
+- Altexsoft: [Qantas Data Breach](https://www.altexsoft.com/travel-industry-news/qantas-data-breach-exposes-details-of-6-million-customers-in-targeted-cyberattack/?utm_source=chatgpt.com)
 
 **Regulatory & Compliance**
 - OAIC Statement: [Statement on Qantas Cyber Incident](https://www.oaic.gov.au/news/media-centre/statement-on-qantas-cyber-incident)
