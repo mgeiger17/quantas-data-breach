@@ -735,6 +735,7 @@ layout: default
 
 **Incident Reports & News**
 - Qantas Official Statement: [qantasnewsroom.com.au](https://www.qantasnewsroom.com.au/media-releases/qantas-cyber-incident)
+    - Update Statement: [quantasnewsroom.com.au](https://www.qantasnewsroom.com.au/media-releases/update-on-qantas-cyber-incident-wednesday-9-july-2025)
 - CM Alliance Analysis: [Qantas Data Breach - Scattered Spider](https://www.cm-alliance.com/cybersecurity-blog/qantas-data-breach-scattered-spider-takes-to-the-skies)
 - Cybersecurity News: [Qantas Airlines Cyberattack](https://cybersecuritynews.com/qantas-airlines-cyberattack/)
 - Australian Cyber Security Magazine: [Stolen Records on Dark Web](https://australiancybersecuritymagazine.com.au/stolen-qantas-customer-records-surface-on-dark-web/)
@@ -747,6 +748,11 @@ layout: default
 **Technical References**
 - IBM: [Data Breach Topics](https://www.ibm.com/de-de/think/topics/data-breach)
 - OWASP API Security: [Broken Object Level Authorization](https://owasp.org/API-Security/editions/2023/en/0xa1-broken-object-level-authorization/)
+- Tech Radar: [Spider Hackers](https://www.techradar.com/pro/security/fbi-warns-scattered-spider-hackers-are-now-going-after-airlines)
 - FIDO Alliance: [Passkeys & FIDO2](https://fidoalliance.org/passkeys/)
+
+<!-- - https://www.intheeventof.co/guides/breaches/qantas-2025 -->
+<!-- - https://www.rsm.global/australia/insights/qantas-data-breach-what-went-wrong?utm_source=chatgpt.com -->
+
 
 </div>
