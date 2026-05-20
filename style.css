@@ -5,8 +5,8 @@
   background-repeat: no-repeat;
 }
 
-/* Optional: Dunkler Overlay für bessere Lesbarkeit */
-.slidev-layout::before {
+/* Dunkler Overlay für bessere Lesbarkeit - außer auf der ersten Folie */
+.slidev-layout:not(.slidev-page-1)::before {
   content: '';
   position: absolute;
   top: 0;
