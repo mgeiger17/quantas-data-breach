@@ -1,6 +1,6 @@
 ---
 theme: default
-background: '#0f0f0f'
+background: /bg-quantas.png
 title: Qantas Supply Chain Breach 2025
 info: |
   ## Fallstudie: Qantas Supply Chain Breach
