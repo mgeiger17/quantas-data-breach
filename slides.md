@@ -643,7 +643,7 @@ class: text-center
 
 <v-click>
 
-<div class="text-2xl font-bold bg-gradient-to-r from-blue-500 to-cyan-600 bg-clip-text text-transparent">
+<div class="text-2xl font-bold bg-gradient-to-r from-red-700 to-red-900 bg-clip-text text-transparent">
 Identität ist der neue Sicherheitsperimeter
 </div>
 
