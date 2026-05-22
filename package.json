@@ -8,6 +8,7 @@
     "export": "slidev export"
   },
   "dependencies": {
+    "@rolldown/binding-darwin-arm64": "^1.0.1",
     "@slidev/cli": "^52.15.2",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",

@@ -70,9 +70,64 @@ layout: default
 Kernproblem: Vertrauen ohne Verifikation (Implicit Trust Relationships)
 </div>
 
+<div v-click class="mt-4 p-4 bg-gray-500/10 border-l-4 border-gray-400 rounded text-sm">
+<strong>CVE/CVSS:</strong> Kein spezifischer CVE — kein klassischer Software-Bug · Klassifizierung: <strong>OWASP API Security Top 10 #1 — BOLA</strong> (Broken Object Level Authorization)
+</div>
+
 <!--
 Supply-Chain-Angriffe zielen nicht direkt auf die Hauptinfrastruktur, sondern kompromittieren Partner mit legitimen Zugängen.
 Der Fokus liegt auf Identity-Missbrauch, nicht auf Code-Schwachstellen.
+-->
+
+---
+layout: default
+---
+
+# Relevanz: Supply Chain Angriffe
+
+<div class="grid grid-cols-2 gap-8 mt-8">
+
+<div>
+
+## Bedrohungslage
+
+<v-clicks>
+
+- Vervierfachung der Angriffe 2020 → 2021 (ENISA)
+- Ø **4,88 Mio. USD** Schadenskosten je Vorfall (IBM 2024)
+- Drittanbieter als zunehmend kritischer Angriffsvektor
+
+</v-clicks>
+
+</div>
+
+<div>
+
+## Bekannte Fälle
+
+<v-clicks>
+
+- **SolarWinds (2020)** — Staatliche Akteure, ~18.000 Ziele
+- **MOVEit (2023)** — Cl0p-Gruppe, 2.700+ Organisationen
+- **MGM Resorts (2023)** — Scattered Spider
+- **Qantas (2025)** — Scattered Spider (vermutet)
+
+</v-clicks>
+
+</div>
+
+</div>
+
+<v-click>
+
+<div class="mt-8 p-4 bg-orange-500/10 border-l-4 border-orange-500 rounded">
+Trend: Angreifer umgehen direkte Unternehmensverteidigung über schwächere Partner im Ökosystem
+</div>
+
+</v-click>
+
+<!--
+Supply-Chain-Angriffe sind zu einem der dominierenden Angriffsvektoren geworden. Statt in gepanzerte Ziele einzubrechen, greifen Angreifer über vertrauenswürdige Partner an.
 -->
 
 ---
@@ -461,6 +516,58 @@ Die entwendeten Daten sind hochwertig für Folgeangriffe. Identity Starter Kits 
 -->
 
 ---
+layout: default
+---
+
+# Qantas Reaktion & Incident Response
+
+<div class="grid grid-cols-2 gap-8 mt-6">
+
+<div>
+
+## Sofortmaßnahmen
+
+<v-clicks>
+
+- Partnerzugang sofort gesperrt
+- Forensik-Untersuchung eingeleitet
+- Betroffene Kunden per E-Mail informiert
+- Kooperation mit OAIC und Behörden
+
+</v-clicks>
+
+</div>
+
+<div>
+
+## Eingrenzung des Schadens
+
+<v-clicks>
+
+- Keine Zahlungsdaten betroffen
+- Keine Passwörter kompromittiert
+- Keine Reisedokumente gestohlen
+- Keine Frequent-Flyer-Passwörter exponiert
+
+</v-clicks>
+
+</div>
+
+</div>
+
+<v-click>
+
+<div class="mt-8 p-4 bg-blue-500/10 border-l-4 border-blue-500 rounded text-sm">
+<strong>Quelle:</strong> Offizielles Update-Statement Qantas, 9. Juli 2025 — schnelle Reaktion als Zeichen funktionierendes Incident Response Management
+</div>
+
+</v-click>
+
+<!--
+Die schnelle Reaktion von Qantas zeigt Incident Response Management in der Praxis. Der betroffene Partnerzugang wurde sofort getrennt, Kunden informiert und Behörden eingebunden.
+-->
+
+---
 layout: center
 class: text-center
 ---
@@ -738,7 +845,7 @@ layout: default
 - CM Alliance Analysis: [Qantas Data Breach - Scattered Spider](https://www.cm-alliance.com/cybersecurity-blog/qantas-data-breach-scattered-spider-takes-to-the-skies)
 - Cybersecurity News: [Qantas Airlines Cyberattack](https://cybersecuritynews.com/qantas-airlines-cyberattack/)
 - Australian Cyber Security Magazine: [Stolen Records on Dark Web](https://australiancybersecuritymagazine.com.au/stolen-qantas-customer-records-surface-on-dark-web/)
-- Altexsoft: [Qantas Data Breach](https://www.altexsoft.com/travel-industry-news/qantas-data-breach-exposes-details-of-6-million-customers-in-targeted-cyberattack/?utm_source=chatgpt.com)
+- Altexsoft: [Qantas Data Breach](https://www.altexsoft.com/travel-industry-news/qantas-data-breach-exposes-details-of-6-million-customers-in-targeted-cyberattack/)
 
 **Regulatory & Compliance**
 - OAIC Statement: [Statement on Qantas Cyber Incident](https://www.oaic.gov.au/news/media-centre/statement-on-qantas-cyber-incident)
@@ -747,6 +854,8 @@ layout: default
 
 **Technical References**
 - IBM: [Data Breach Topics](https://www.ibm.com/de-de/think/topics/data-breach)
+- IBM: [Cost of a Data Breach Report 2024](https://www.ibm.com/reports/data-breach)
+- ENISA: [Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks)
 - OWASP API Security: [Broken Object Level Authorization](https://owasp.org/API-Security/editions/2023/en/0xa1-broken-object-level-authorization/)
 - Tech Radar: [Spider Hackers](https://www.techradar.com/pro/security/fbi-warns-scattered-spider-hackers-are-now-going-after-airlines)
 - FIDO Alliance: [Passkeys & FIDO2](https://fidoalliance.org/passkeys/)
