@@ -424,14 +424,12 @@ layout: default
 
 ## Mass Assignment
 
-<div class="mt-8 p-6 bg-gray-800/50 border border-gray-600/30 rounded">
 
 **Skript-gesteuerter Datenabzug:**
 - Millionen von Datensätzen in Stunden
 - Automatisierte Enumeration
 - Tarnung durch autorisierten Partner-Kanal
 
-</div>
 
 </v-click>
 
