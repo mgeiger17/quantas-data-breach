@@ -202,7 +202,7 @@ graph LR
 
 <div class="text-center">
 <div class="font-bold">Phase 3</div>
-<div class="opacity-70">Lateral Movement</div>
+<div class="opacity-70">Unauthorized Access</div>
 </div>
 
 <div class="text-center">
@@ -218,7 +218,7 @@ graph LR
 </div>
 
 <!--
-Der komplette Attack Flow von Social Engineering bis zur Exfiltration
+Der komplette Attack Flow von Social Engineering bis zur Exfiltration. Phase 3 beschreibt den direkten Zugriff über gestohlene Partner-Credentials auf das Qantas-System – kein klassisches Lateral Movement im Netzwerk, sondern gezielter API-Zugriff über legitime Vertrauensstellung.
 -->
 
 ---
